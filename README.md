@@ -1,1 +1,1 @@
-[https://user-images.githubusercontent.com/93369643/175920721-1570a716-cf33-4d12-b7fb-0822ee1a280c.png](https://github.com/sponsors/Hugoondev)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugoondev)](https://github.com/anuraghazra/github-readme-stats)
