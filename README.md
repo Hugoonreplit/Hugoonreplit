@@ -12,5 +12,5 @@
 
 ⌛ Currently studying [**Javascript**](https://www.javascript.com/), [**Rust**](https://www.rust-lang.org/) and [**Raku**](https://raku.org/)
 
-✉️  Contact me on [**Email**](https://malito:Hugoonreplit@gmail.com) or on **Discord** → **Hugoonreplit#0001**
+✉️  Contact me on [**Email**](https://malito:Hugoonreplit@gmail.com)
 
